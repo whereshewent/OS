@@ -1,6 +1,6 @@
 /* Solution for Mmap (virtual memory, 40) topic
 as part of the course COMP.CS.410: Operating Systems and Concurrency, fall 26
-Author: Duc
+Contributors: Duc (writer), Vilppu (tester)
 Description: This program performs the functionality of wordcount (wc) command
 using mmap() system call. It is done by utilizing system calls 
 to open and close files and then use mmap to allocate heap memory of the file's size on RAM.

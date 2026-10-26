@@ -1,6 +1,6 @@
 /* Solution for command shell (simple) (fork, 24) topic
 as part of the course COMP.CS.410: Operating Systems and Concurrency, fall 26
-Author: Duc
+Contributors: Duc (writer), Vilppu (tester)
 Description: This program takes a program name from user, look it up from the PATH environment variable, 
 and create a new process from the program using fork and exec system calls when the name is valid.
 The validity of the program is checked by looping through each directory in the PATH environment, form the 
